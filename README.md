@@ -30,4 +30,4 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
  
 # Patika
 
-### [Patika.dev](www.patika.dev)
+### [Patika.dev](https://www.patika.dev/tr)
