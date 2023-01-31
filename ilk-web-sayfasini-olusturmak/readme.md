@@ -1,6 +1,6 @@
  # ilk Web Sayfasi Olusturma
 
-  Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğum repodur. İçerisinde bir adet README dosyası, bir adet de 2 adet index.html, bir adet .gitignore, bir adet favicon.ico barındırıyor.
+  Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğum repodur. İçerisinde bir adet README dosyası, 2 adet index.html, bir adet .gitignore, bir adet favicon.ico barındırıyor.
 
 #
 
