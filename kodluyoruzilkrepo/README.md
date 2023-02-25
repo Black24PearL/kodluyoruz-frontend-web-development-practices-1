@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
  Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-    https://github.com/Black24PearL/kodluyoruzilkrepo.git
+    https://github.com/Black24PearL/kodluyoruz-frontend-web-development-practices-1.git
 
  # Usage
 
