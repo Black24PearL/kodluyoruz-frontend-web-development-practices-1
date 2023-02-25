@@ -1,0 +1,48 @@
+.imgStyle {
+    text-align: center;
+    padding-top: 30px;
+}
+.content-top {
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#e6e6e6;
+    padding:5px 0px;
+    word-spacing: 1px;
+}
+.content-sub {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 19px;
+    white-space: normal;
+    margin:2px auto;
+    display:flex;
+    word-spacing: 1px;
+}
+.content-sub-left {
+    background-color:rgb(126, 229, 218);
+    float:left ;
+    width:33.2%;
+    margin-right: 2px;
+    text-align: center;
+    padding: 20px 10px;
+}
+.content-sub-middle {
+    background-color: rgb(112, 204, 194);
+    float:left ;
+    width:33.2%;
+    min-height: 90px;
+    margin-right: 2px;
+    text-align: center;
+    padding: 10px;
+}
+.content-sub-right {
+    width:33.2%;
+    min-height: 90px;
+    float:left ;
+    background-color:rgb(98, 179, 170);
+    text-align: center;
+    padding: 10px;
+} 
