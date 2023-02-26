@@ -1,4 +1,4 @@
-# Kodluyoruz - Patika.dev Frontend Web Development Practices-1
+# Kodluyoruz - Patika.dev # Frontend Web Development Practices-1
 ___
   **Furkan ilhan**               *[linkedin](https://www.linkedin.com/in/furkan-ilhan-/)*
 
